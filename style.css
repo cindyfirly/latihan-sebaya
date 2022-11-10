@@ -1,0 +1,61 @@
+#wrapper {
+   width: 960px; 
+   background-color: gray;
+}
+
+#header {
+    width: 100%;
+    background-color: yellow;
+}
+
+#header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+#header h1 {
+    color: black;
+    text-align: center;
+}
+
+#daftar-sidebar {
+    width: 360px;
+    background-color: blue;
+}
+
+.sidebar {
+    width: 350px;
+    background-color: white;
+}
+
+.sidebar img {
+    width: 50px;
+    height: 50px;
+}
+
+.sidebar p {
+    color: blue;
+}
+
+#content {
+    width: 600px;
+    background-color: pink;
+}
+
+#content h2 {
+    color: blue;
+}
+
+#content img {
+    width: 100px;
+    height: 100px;
+}
+
+#footer {
+    background-color: red;
+}
+#footer p {
+    color: white;
+    text-align: center;
+}
